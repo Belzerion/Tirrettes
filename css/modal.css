@@ -1,0 +1,16 @@
+#favDialog{
+    width: 300px;
+    margin-left: calc(200px + (100% - 200px) * 0.5 - 300px / 2);
+    top: 30%;
+    border: none;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+#formDialog{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    margin: 0;
+}

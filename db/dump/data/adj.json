@@ -1,0 +1,933 @@
+{
+  "name": "adjective",
+  "schemaHash": "37fjx8",
+  "docs": [
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "ancien",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.69
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "ancienne",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.7
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "anciennes",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.71
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "anciens",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.72
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "blanc",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.73
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "blanche",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.74
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "blanches",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.75
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "blancs",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.76
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "bleu",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.77
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "bleue",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.78
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "bleues",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.79
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "bleus",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.8
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "bon",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.81
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "bonnes",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.82
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "bonnne",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.83
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "bons",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.84
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "dernier",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.85
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "derniers",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.86
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "dernière",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.87
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "dernières",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.88
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "différent",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.89
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "différente",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.9
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "différentes",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.91
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "différents",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.92
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier/Pluriel",
+      "label": "doux",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459985952.01
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "folle",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.93
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "folles",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.94
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "fort",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.95
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "forte",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.96
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "fortes",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.97
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "forts",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.98
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "fou",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948734.99
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "froid",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "froide",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.01
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "froides",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.02
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "froids",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.03
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "grand",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.04
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "grandes",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.05
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier/Pluriel",
+      "label": "gris",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.06
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier/Pluriel",
+      "label": "gros",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.07
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "grosse",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.08
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "grosses",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.09
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "haut",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.1
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "haute",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.11
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "hautes",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.12
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "hauts",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.13
+      }
+    },
+    {
+      "gender": "Masculin/Féminin",
+      "number": "Singulier",
+      "label": "immense",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.14
+      }
+    },
+    {
+      "gender": "Masculin/Féminin",
+      "number": "Pluriel",
+      "label": "immenses",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.15
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "important",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.16
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "importante",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.17
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "importantes",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.18
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "importants",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.19
+      }
+    },
+    {
+      "gender": "Masculin/Féminin",
+      "number": "Singulier",
+      "label": "jeune",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.2
+      }
+    },
+    {
+      "gender": "Masculin/Féminin",
+      "number": "Pluriel",
+      "label": "jeunes",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.21
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "joli",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.22
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "jolie",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.23
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "jolies",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.24
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "jolis",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.25
+      }
+    },
+    {
+      "gender": "Masculin/Féminin",
+      "number": "Singulier",
+      "label": "libre",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.26
+      }
+    },
+    {
+      "gender": "Masculin/Féminin",
+      "number": "Pluriel",
+      "label": "libres",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.27
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "long",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.28
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "longs",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.29
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "longue",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.3
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "longues",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.31
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "léger",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.32
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "légers",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.33
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "légère",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.34
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "légères",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.35
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier/Pluriel",
+      "label": "mauvais",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.36
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "noir",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.37
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "noire",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.38
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "noires",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.39
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "noirs",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.4
+      }
+    },
+    {
+      "gender": "Masculin/Féminin",
+      "number": "Singulier",
+      "label": "pauvre",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.41
+      }
+    },
+    {
+      "gender": "Masculin/Féminin",
+      "number": "Pluriel",
+      "label": "pauvres",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.42
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "petit",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.43
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "petite",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.44
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "petites",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.45
+      }
+    },
+    {
+      "gender": "Masculin/Féminin",
+      "number": "Singulier",
+      "label": "possible",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.46
+      }
+    },
+    {
+      "gender": "Masculin/Féminin",
+      "number": "Pluriel",
+      "label": "possibles",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.47
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "premier",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.48
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "premiers",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.49
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "première",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.5
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "premières",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.51
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "profond",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.52
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "profonde",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.53
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "profondes",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.54
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "pur",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.55
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "pure",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.56
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "pures",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.57
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "purs",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.58
+      }
+    },
+    {
+      "gender": "Masculin/Féminin",
+      "number": "Singulier",
+      "label": "simple",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.59
+      }
+    },
+    {
+      "gender": "Masculin/Féminin",
+      "number": "Pluriel",
+      "label": "simples",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.6
+      }
+    },
+    {
+      "gender": "Masculin/Féminin",
+      "number": "Singulier",
+      "label": "sombre",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.61
+      }
+    },
+    {
+      "gender": "Masculin/Féminin",
+      "number": "Pluriel",
+      "label": "sombres",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.62
+      }
+    },
+    {
+      "gender": "Masculin/Féminin",
+      "number": "Singulier",
+      "label": "terrible",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.63
+      }
+    },
+    {
+      "gender": "Masculin/Féminin",
+      "number": "Pluriel",
+      "label": "terribles",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.64
+      }
+    },
+    {
+      "gender": "Masculin/Féminin",
+      "number": "Singulier",
+      "label": "triste",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.65
+      }
+    },
+    {
+      "gender": "Masculin/Féminin",
+      "number": "Pluriel",
+      "label": "tristes",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.66
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "vrai",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.67
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "vraie",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.68
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "vraies",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.69
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "vrais",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671459948735.7
+      }
+    }
+  ]
+}

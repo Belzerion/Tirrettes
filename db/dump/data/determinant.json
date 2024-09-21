@@ -1,0 +1,213 @@
+{
+  "name": "determinant",
+  "schemaHash": "s7zjr0",
+  "docs": [
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "Ce",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671195715857.01
+      }
+    },
+    {
+      "gender": "Masculin/Féminin",
+      "number": "Pluriel",
+      "label": "Ces",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671195725378.01
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "Cet",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671195700975.26
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "Cette",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671195700975.27
+      }
+    },
+    {
+      "gender": "Masculin/Féminin",
+      "number": "Pluriel",
+      "label": "Des",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671195700975.28
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "La",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671195700975.29
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "Le",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671195700975.3
+      }
+    },
+    {
+      "gender": "Masculin/Féminin",
+      "number": "Pluriel",
+      "label": "Les",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671195700975.31
+      }
+    },
+    {
+      "gender": "Masculin/Féminin",
+      "number": "Pluriel",
+      "label": "Leurs",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671195700975.32
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "Ma",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671195700975.33
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "Mon",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671195700975.34
+      }
+    },
+    {
+      "gender": "Masculin/Féminin",
+      "number": "Pluriel",
+      "label": "Nos",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671195700975.35
+      }
+    },
+    {
+      "gender": "Masculin/Féminin",
+      "number": "Singulier",
+      "label": "Notre",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671195700975.36
+      }
+    },
+    {
+      "gender": "Masculin/Féminin",
+      "number": "Pluriel",
+      "label": "Plusieurs",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671195700975.37
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "Sa",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671195700975.38
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "Son",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671195700975.39
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "Ta",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671195700975.4
+      }
+    },
+    {
+      "gender": "Masculin/Féminin",
+      "number": "Pluriel",
+      "label": "Tes",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671195700975.41
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "Ton",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671195700975.42
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "Un",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671195700975.43
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "Une",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671195700975.44
+      }
+    },
+    {
+      "gender": "Masculin/Féminin",
+      "number": "Pluriel",
+      "label": "Vos",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671195700975.45
+      }
+    },
+    {
+      "gender": "Masculin/Féminin",
+      "number": "Singulier",
+      "label": "Votre",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1671195700975.46
+      }
+    }
+  ]
+}

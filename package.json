@@ -1,0 +1,24 @@
+{
+  "name": "tirrettes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Belzerion/Tirrettes.git"
+  },
+  "author": "Hugo DEGEORGES",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Belzerion/Tirrettes/issues"
+  },
+  "homepage": "https://github.com/Belzerion/Tirrettes#readme",
+  "description": "",
+  "dependencies": {
+    "git": "^0.1.5",
+    "pouchdb-adapter-memory": "^7.3.1",
+    "rxdb": "file:rxdb-local.tgz"
+  }
+}

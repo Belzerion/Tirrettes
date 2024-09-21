@@ -1,0 +1,843 @@
+{
+  "name": "noun",
+  "schemaHash": "iz6w3g",
+  "docs": [
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "air",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556649.93
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "airs",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556649.94
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "ami",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556649.95
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "amis",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556649.96
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "amour",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556649.97
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "amours",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556649.98
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "bocal",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556649.99
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "bocaux",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "cerveau",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.01
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "cerveaux",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.02
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "cheval",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.03
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "chevaux",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.04
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "chose",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.05
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "choses",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.06
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "ciel",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.07
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "ciels",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.08
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "cou",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.09
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "coup",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.1
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "coups",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.11
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "cous",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.12
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "côté",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.13
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "côtés",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.14
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "eau",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.15
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "eaux",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.16
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "enfant",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.17
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "enfants",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.18
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "esprit",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.19
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "esprits",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.2
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "femme",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.21
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "femmes",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.22
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "feu",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.23
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "feux",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.24
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "fille",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.25
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "filles",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.26
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "fou",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.27
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "fous",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.28
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "frère",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.29
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "frères",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.3
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "heure",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.31
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "heures",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.32
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "homme",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.33
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "hommes",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.34
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "jour",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.35
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "journal",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.36
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "journaux",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.37
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "main",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.38
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "mains",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.39
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "maison",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.4
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "maisons",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.41
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "milieu",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.42
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "milieux",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.43
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "moment",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.44
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "moments",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.45
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "monde",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.46
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "mondes",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.47
+      }
+    },
+    {
+      "gender": "Masculin/Féminin",
+      "number": "Singulier",
+      "label": "mort",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.48
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "morts",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.49
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "mot",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.5
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "mots",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.51
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "nom",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.52
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "noms",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.53
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "nuit",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.54
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "nuits",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.55
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier/Pluriel",
+      "label": "pays",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.56
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "pied",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.57
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "pieds",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.58
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "porte",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.59
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "portes",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.6
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "père",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.61
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "pères",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.62
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "regard",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.63
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "regards",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.64
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "rue",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.65
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "rues",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.66
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "soir",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.67
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "soirs",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.68
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "sou",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.69
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier/Pluriel",
+      "label": "souris",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.7
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "sous",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.71
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier/Pluriel",
+      "label": "temps",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.72
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "terre",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.73
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "terres",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.74
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "tonneau",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.75
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "tonneaux",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.76
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Singulier",
+      "label": "trou",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.77
+      }
+    },
+    {
+      "gender": "Masculin",
+      "number": "Pluriel",
+      "label": "trous",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.78
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "tête",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.79
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "têtes",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.8
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "vie",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.81
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "vies",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.82
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier",
+      "label": "ville",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.83
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Pluriel",
+      "label": "villes",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345556650.84
+      }
+    },
+    {
+      "gender": "Féminin",
+      "number": "Singulier/Pluriel",
+      "label": "voix",
+      "_deleted": false,
+      "_meta": {
+        "lwt": 1670345562172.01
+      }
+    }
+  ]
+}

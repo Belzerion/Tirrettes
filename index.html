@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Accueil</title>
+    <link href="./css/bootstrap.css" rel="stylesheet" />
+    <link href="./css/DataTable.css" rel="stylesheet" />
+    <link href="./css/wrapper.css" rel="stylesheet" />
+    <link href="./css/carousel.css" rel="stylesheet" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <div
+        class="main_content"
+        style="
+          background-color: white;
+          display: flex;
+          justify-content: center;
+          flex-direction: column;
+        "
+      >
+        <p id="countdown"></p>
+        <div class="carousels" id="carousels"></div>
+        <div class="validate">
+          <button class="button" onclick="Validate()">Valider</button>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script type="module" src="./js/carousel.js"></script>
+</html>

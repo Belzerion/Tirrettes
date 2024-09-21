@@ -1,0 +1,598 @@
+{
+    "name": "verb",
+    "schemaHash": "7k2zwm",
+    "docs": [
+      {
+        "person": "P3",
+        "label": "a",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633205141.01
+        }
+      },
+      {
+        "person": "P1",
+        "label": "ai",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633198361.01
+        }
+      },
+      {
+        "person": "P5",
+        "label": "allez",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633289046.01
+        }
+      },
+      {
+        "person": "P4",
+        "label": "allons",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633284231.01
+        }
+      },
+      {
+        "person": "P2",
+        "label": "as",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633202438.01
+        }
+      },
+      {
+        "person": "P5",
+        "label": "avez",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633212856.01
+        }
+      },
+      {
+        "person": "P4",
+        "label": "avons",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633208696.01
+        }
+      },
+      {
+        "person": "P6",
+        "label": "courent",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633170684.01
+        }
+      },
+      {
+        "person": "P5",
+        "label": "courez",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633165875.01
+        }
+      },
+      {
+        "person": "P4",
+        "label": "courons",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633161731.01
+        }
+      },
+      {
+        "person": "P1P2",
+        "label": "cours",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633151833.01
+        }
+      },
+      {
+        "person": "P3",
+        "label": "court",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633155098.01
+        }
+      },
+      {
+        "person": "P6",
+        "label": "dorment",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633190466.01
+        }
+      },
+      {
+        "person": "P5",
+        "label": "dormez",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633187209.01
+        }
+      },
+      {
+        "person": "P4",
+        "label": "dormons",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633183227.01
+        }
+      },
+      {
+        "person": "P1P2",
+        "label": "dors",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633176576.01
+        }
+      },
+      {
+        "person": "P3",
+        "label": "dort",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633179557.01
+        }
+      },
+      {
+        "person": "P2",
+        "label": "es",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633228833.01
+        }
+      },
+      {
+        "person": "P3",
+        "label": "est",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633231555.01
+        }
+      },
+      {
+        "person": "P1P2",
+        "label": "finis",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633007353.22
+        }
+      },
+      {
+        "person": "P6",
+        "label": "finissent",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633007353.25
+        }
+      },
+      {
+        "person": "P5",
+        "label": "finissez",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633007353.23
+        }
+      },
+      {
+        "person": "P4",
+        "label": "finissons",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633007353.24
+        }
+      },
+      {
+        "person": "P3",
+        "label": "finit",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633007353.26
+        }
+      },
+      {
+        "person": "P1P2",
+        "label": "grandis",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633007353.27
+        }
+      },
+      {
+        "person": "P6",
+        "label": "grandissent",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633007353.3
+        }
+      },
+      {
+        "person": "P5",
+        "label": "grandissez",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633007353.28
+        }
+      },
+      {
+        "person": "P4",
+        "label": "grandissons",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633007353.29
+        }
+      },
+      {
+        "person": "P3",
+        "label": "grandit",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633007353.31
+        }
+      },
+      {
+        "person": "P1P3",
+        "label": "joue",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633007353.32
+        }
+      },
+      {
+        "person": "P6",
+        "label": "jouent",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633007353.36
+        }
+      },
+      {
+        "person": "P2",
+        "label": "joues",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633007353.33
+        }
+      },
+      {
+        "person": "P5",
+        "label": "jouez",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633007353.34
+        }
+      },
+      {
+        "person": "P4",
+        "label": "jouons",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633007353.35
+        }
+      },
+      {
+        "person": "P1",
+        "label": "mange",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633007353.37
+        }
+      },
+      {
+        "person": "P6",
+        "label": "ont",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633218264.01
+        }
+      },
+      {
+        "person": "P1P3",
+        "label": "parle",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633045058.01
+        }
+      },
+      {
+        "person": "P6",
+        "label": "parlent",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633060868.01
+        }
+      },
+      {
+        "person": "P2",
+        "label": "parles",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633047312.01
+        }
+      },
+      {
+        "person": "P5",
+        "label": "parlez",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633056303.01
+        }
+      },
+      {
+        "person": "P2",
+        "label": "parlons",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633052516.01
+        }
+      },
+      {
+        "person": "P3",
+        "label": "prend",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633102611.01
+        }
+      },
+      {
+        "person": "P1P2",
+        "label": "prends",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633099355.01
+        }
+      },
+      {
+        "person": "P5",
+        "label": "prenez",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633110371.01
+        }
+      },
+      {
+        "person": "P6",
+        "label": "prennent",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633115281.01
+        }
+      },
+      {
+        "person": "P4",
+        "label": "prenons",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633106871.01
+        }
+      },
+      {
+        "person": "P1P3",
+        "label": "regarde",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633023340.01
+        }
+      },
+      {
+        "person": "P6",
+        "label": "regardent",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633036916.01
+        }
+      },
+      {
+        "person": "P2",
+        "label": "regardes",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633025343.01
+        }
+      },
+      {
+        "person": "P5",
+        "label": "regardez",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633033409.01
+        }
+      },
+      {
+        "person": "P4",
+        "label": "regardons",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633029245.01
+        }
+      },
+      {
+        "person": "P6",
+        "label": "rient",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633141483.01
+        }
+      },
+      {
+        "person": "P5",
+        "label": "riez",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633136407.01
+        }
+      },
+      {
+        "person": "P4",
+        "label": "rions",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633131991.01
+        }
+      },
+      {
+        "person": "P1P2",
+        "label": "ris",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633124191.01
+        }
+      },
+      {
+        "person": "P3",
+        "label": "rit",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633127213.01
+        }
+      },
+      {
+        "person": "P4",
+        "label": "sommes",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633242452.01
+        }
+      },
+      {
+        "person": "P6",
+        "label": "sont",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633250661.01
+        }
+      },
+      {
+        "person": "P1",
+        "label": "suis",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633225826.01
+        }
+      },
+      {
+        "person": "P1P3",
+        "label": "travaille",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633007353.38
+        }
+      },
+      {
+        "person": "P6",
+        "label": "travaillent",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633007353.42
+        }
+      },
+      {
+        "person": "P2",
+        "label": "travailles",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633007353.39
+        }
+      },
+      {
+        "person": "P5",
+        "label": "travaillez",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633007353.4
+        }
+      },
+      {
+        "person": "P4",
+        "label": "travaillons",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633007353.41
+        }
+      },
+      {
+        "person": "P3",
+        "label": "va",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633273294.01
+        }
+      },
+      {
+        "person": "P1",
+        "label": "vais",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633265824.01
+        }
+      },
+      {
+        "person": "P2",
+        "label": "vas",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633270011.01
+        }
+      },
+      {
+        "person": "P6",
+        "label": "vont",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633296180.01
+        }
+      },
+      {
+        "person": "P1P2",
+        "label": "écris",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633073121.01
+        }
+      },
+      {
+        "person": "P3",
+        "label": "écrit",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633076123.01
+        }
+      },
+      {
+        "person": "P6",
+        "label": "écrivent",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633092278.01
+        }
+      },
+      {
+        "person": "P5",
+        "label": "écrivez",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633088489.01
+        }
+      },
+      {
+        "person": "P4",
+        "label": "écrivons",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633084495.01
+        }
+      },
+      {
+        "person": "P5",
+        "label": "êtes",
+        "_deleted": false,
+        "_meta": {
+          "lwt": 1671633246611.01
+        }
+      }
+    ]
+  }
