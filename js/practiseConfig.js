@@ -57,7 +57,7 @@ function LoadCatNumber() {
 }
 
 function Launch() {
-  let url = "index.html?";
+  let url = "Practise.html?";
   const mode = document.getElementById("mode-one").checked
     ? "modeOne"
     : "modeTwo";
