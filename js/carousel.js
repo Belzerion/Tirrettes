@@ -1,6 +1,43 @@
-"use strict";
+async function loadJSON(file) 
+{
+  const response = await fetch(file);
+  const data = await response.json();
+  return data;
+}
 
-import { getCollection, createDatabase } from "./db";
+async function loadDataBase()
+{
+  const [adjective, noun, determinant, verb] = await Promise.all([
+    loadJSON("https://belzerion.github.io/TirettesData/adj.json"),
+    loadJSON("https://belzerion.github.io/TirettesData/noun.json"),
+    loadJSON("https://belzerion.github.io/TirettesData/determinant.json"),
+    loadJSON("https://belzerion.github.io/TirettesData/verb.json")
+  ]);
+
+  return {
+    adjective,
+    noun, 
+    determinant, 
+    verb
+  };
+
+}
+
+function findAdjectifsByCriteria(database, gender, number) {
+  return database.adjective.filter(adj => adj.gender === gender && adj.number === number);
+}
+
+function findNomsByCriteria(database, gender, number) {
+  return database.noun.filter(nom => nom.gender === gender && nom.number === number);
+}
+
+function findDeterminantsByCriteria(database, gender, number) {
+  return database.determinant.filter(det => det.gender === gender && det.number === number);
+}
+
+function getVerbes(database) {
+  return database.verb.map(verb => verb.label);
+}
 
 const STRUCTURE_TO_ELEM = {
   dan: ["det", "adj", "noun"],
@@ -329,6 +366,7 @@ async function updateCarousels(db, carousels) {
 }
 
 async function mountCarousels(db, elems, url) {
+  const { determinant } = db;
   const carousels = [];
   const gender = getRndGender();
   const number = getRndNumber();
@@ -369,9 +407,9 @@ async function mountCarousels(db, elems, url) {
 }
 
 async function getCarouselData(collection, gender, number, quantity) {
-  const coll = await getCollection(collection);
+
   const collDict = [];
-  coll.map((item) =>
+  collection["docs"].map((item) =>
     collDict.push({
       label: item.label,
       gender: item.gender,
@@ -397,7 +435,6 @@ async function getCarouselData(collection, gender, number, quantity) {
   const carouselData = [
     { id: "1", src: item.label, gender: item.gender, number: item.number },
   ];
-  console.log(item);
   for (let i = 2; i < quantity + 1; ++i) {
     const item = collDict[Math.floor(Math.random() * collDict.length)];
     carouselData.push({
@@ -412,9 +449,8 @@ async function getCarouselData(collection, gender, number, quantity) {
 }
 
 async function getVerbCarouselData(collection, quantity, person) {
-  const coll = await getCollection(collection);
   const collDict = [];
-  coll.map((item) =>
+  collection["docs"].map((item) =>
     collDict.push({
       label: item.label,
       person: item.person,
@@ -426,7 +462,6 @@ async function getVerbCarouselData(collection, quantity, person) {
   const item = filteredItems[Math.floor(Math.random() * filteredItems.length)];
   collDict.splice(collDict.indexOf(item), 1);
   const carouselData = [{ id: "1", src: item.label, person: item.person }];
-  console.log(item);
   for (let i = 2; i < quantity + 1; ++i) {
     const item = collDict[Math.floor(Math.random() * collDict.length)];
     carouselData.push({
@@ -474,7 +509,6 @@ function flashElement(elems) {
 }
 
 async function generateSituation(collection, quantity, gender, number) {
-  console.log(gender, number);
   const data = await getCarouselData(collection, gender, number, quantity);
   return data;
 }
@@ -484,9 +518,8 @@ async function run() {
   const mode = url.searchParams.get("mode");
   const structure = url.searchParams.get("structure");
   const elems = STRUCTURE_TO_ELEM[structure];
-  const db = await createDatabase("db", "memory");
+  const db = await loadDataBase();
   const carousels = await mountCarousels(db, elems, url);
-  console.log(carousels);
   window.Validate = async function () {
     const elems = document.getElementsByClassName("carousel-item-3");
     const nounEl = document.getElementById("noun");
@@ -501,7 +534,6 @@ async function run() {
     let errorPerson = false;
 
     for (let elem of elems) {
-      console.log(elem);
       if (
         elem.getAttribute("data-gender") != null &&
         elem.getAttribute("data-gender") != gender &&
@@ -531,7 +563,6 @@ async function run() {
         errorPerson = true;
         break;
       }
-      console.log(errorPerson, errorGender, errorNumber);
     }
     if (errorGender || errorNumber || errorPerson) {
       for (let elem of elems) {
@@ -545,5 +576,7 @@ async function run() {
     }
   };
 }
+
+
 
 run();

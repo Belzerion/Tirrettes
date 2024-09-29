@@ -1,4 +1,3 @@
-const { getCollection, createDatabase } = require("./db");
 
 const STRUCTURES = {
   dan: ["Determinant", "Adjectif", "Nom"],
@@ -23,20 +22,6 @@ function loadCatSelection() {
   selection == "rand" ? LoadCatNumber() : loadCustomizedSelection();
 }
 
-async function loadCustomizedSelection() {
-  const db = await createDatabase("db", "memory");
-  const { determinant, noun, adj, verb } = db;
-  const coll = await getCollection(determinant);
-  const collDict = [];
-  coll.map((item) =>
-    collDict.push({
-      label: item.label,
-      person: item.person,
-    })
-  );
-  console.log("ok");
-  console.log(collDict);
-}
 
 function LoadCatNumber() {
   const structureValue = document.getElementById("structure").value;
